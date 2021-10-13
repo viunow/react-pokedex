@@ -17,7 +17,7 @@ const GlobalStyles = createGlobalStyle`
   body {
     font-family: Roboto, Oxygen,Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #f3f3f3;
-    background: url(${Background});
+    background: #333333;
   }
   #root {
     max-width: 1080px;
