@@ -1,7 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
 
-import Background from '../assets/bg.png';
-
 const GlobalStyles = createGlobalStyle`
   *{
     margin: 0;
