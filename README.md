@@ -1,3 +1,4 @@
 # Pokedex created with React using PokeAPI.
 
-![Captura de tela 2021-10-13 114042](https://user-images.githubusercontent.com/57202563/137156261-71affcfc-ef3d-407c-b299-571b30b63aa1.png)
+
+![Captura de tela 2021-10-13 114445](https://user-images.githubusercontent.com/57202563/137156890-2325159d-1bd4-4e0e-b1d6-c6fb67ef953d.png)
